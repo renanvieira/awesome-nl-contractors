@@ -1,6 +1,8 @@
 # Awesome 🇳🇱 Contractors
-List of trusted companies for house renovation/repairs/services.
+Lista de empresas e pessoas confiaveis para reformas e reparos em casas na Holanda.
 
+### Localização
+Lembre de checar com o prestador de serviço se ele atende a sua regiao. As recomendações que eu pessoalmente usei foram pra area de Zaandam, o que indica que _alguns_ prestadores de serviços podem _nao estar disponivel_ pra regiões mais afastadas como Zuid-Holland, por exemplo.
 
 ## Arquitetura
 
