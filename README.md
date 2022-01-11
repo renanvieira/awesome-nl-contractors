@@ -9,6 +9,9 @@ Lembre de checar com o prestador de serviço se ele atende a sua regiao. As reco
 * [Kenisur](https://kenisur.nl/) - 🇧🇷 - Desenho completo (3D) pra reformas. Oferece gestao completa da obra desde o desenho até a entrega, entrega uma shopping list de tudo que é necessario pra obra.
 * [Casa da Ju](https://casadaju.design/) - 🇧🇷 - Desenho completo (3D) pra reformas e design de interiores, na nossa conversa ela mencionou que não faz desenho estrutural.
 
+## Reformas (contractor)
+* [NewHouse Repair](https://www.instagram.com/newhouse.repair/) - 🇧🇷 - Johnny & Rafael são dois BRs qeu trabalham com reformas em geral, porém não é todo tipo de reforma que eles fazem, pelo que conversamos eles fazem coisas mais internas. Eles reformaram o banheiro aqui de casa.
+
 ## Eletricista
 
 * [Ismael - MoreThanElectra](https://wa.me/+31683943404) - Serviços de eletrica em geral. Cobra por hora em serviços de reparos mas tb faz preço fixo pra projetos planejados.
