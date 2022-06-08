@@ -27,3 +27,6 @@ Lembre de checar com o prestador de serviço se ele atende a sua regiao. As reco
 
 ## Pest Control
 * [Netwerk Ongediertebestrijding](https://www.stopplaagdieren.nl/) - Trabalham com o controle de diversas pestes como ratos, silverfish, bedbugs entre outros. No caso de ratos eles caçam o bicho caso ainda esteja dentro de casa, tapam todas as possíveis entradas e dão instruções. Se em duas semanas ainda tiver rato na casa, eles voltam sem nenhum custo extra.
+
+## Encanadores
+* [Buunk](https://buunk.nl/) - Encanadores que atendem toda a região de Amsterdam (inclui Zaandam). Possuem atendimento 24 horas. 
