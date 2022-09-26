@@ -10,7 +10,7 @@ Lembre de checar com o prestador de serviço se ele atende a sua regiao. As reco
 * [Casa da Ju](https://casadaju.design/) - 🇧🇷 - Desenho completo (3D) pra reformas e design de interiores, na nossa conversa ela mencionou que não faz desenho estrutural.
 
 ## Reformas (contractor)
-* [NewHouse Repair](https://www.instagram.com/newhouse.repair/) - 🇧🇷 - Johnny & Rafael são dois BRs qeu trabalham com reformas em geral, porém não é todo tipo de reforma que eles fazem, pelo que conversamos eles fazem coisas mais internas. Eles reformaram o banheiro aqui de casa.
+* ~[NewHouse Repair](https://www.instagram.com/newhouse.repair/) - 🇧🇷 - Johnny & Rafael são dois BRs qeu trabalham com reformas em geral, porém não é todo tipo de reforma que eles fazem, pelo que conversamos eles fazem coisas mais internas. Eles reformaram o banheiro aqui de casa.~ Estamos tendo problemas com o trabalho deles depois da obra finalizada, não recomendo.
 
 ## Eletricista
 
