@@ -11,6 +11,7 @@ Lembre de checar com o prestador de serviço se ele atende a sua regiao. As reco
 
 ## Reformas (contractor)
 
+
 ## Eletricista
 
 * [Ismael - MoreThanElectra](https://wa.me/+31683943404) - Serviços de eletrica em geral. Cobra por hora em serviços de reparos mas tb faz preço fixo pra projetos planejados.
@@ -22,7 +23,6 @@ Lembre de checar com o prestador de serviço se ele atende a sua regiao. As reco
 ## Handyman
 * ~*[Arjan](https://wa.me/+31612670554) - Serviços gerais e pequenos reparos, cobra deslocamento + hora de trabalho*~. Infelizmente Arjan não trabalha mais como handyman. 
 * [Richard+bus](https://www.richardplusbus.nl/en/home-2/) - Serviços gerais como montar moveis e pequenos reparos. Cobra por hora, no site tem o preço.
-* ~*[MyFix](https://mrfix.nl/en/) - Servicos gerais como pintor, eletricista, encanador, chaveiro, montar e desmontar moveis e pequenos reparos. Cobra por hora, no site tem o preco*~. Minha experiencia com a MrFix não foi nada boa. Trabalho de baixa qualidade com material superfaturado e se recusaram a mandar os recibos dos materiais.
 
 ## Pest Control
 * [Netwerk Ongediertebestrijding](https://www.stopplaagdieren.nl/) - Trabalham com o controle de diversas pestes como ratos, silverfish, bedbugs entre outros. No caso de ratos eles caçam o bicho caso ainda esteja dentro de casa, tapam todas as possíveis entradas e dão instruções. Se em duas semanas ainda tiver rato na casa, eles voltam sem nenhum custo extra.
@@ -32,9 +32,13 @@ Lembre de checar com o prestador de serviço se ele atende a sua regiao. As reco
 
 
 
-
+----
 # Avoid List
-Lista de empresas que não são recomendadas.
+Lista de empresas que não são recomendadas. Empresas nessa Avoid List são adicionadas quando temos algum problema com o serviço oferecido.
 
-* [NewHouse Repair](https://www.instagram.com/newhouse.repair/) - 🇧🇷 - Johnny & Rafael:  Estamos tendo diversos problemas com o trabalho deles após a obra finalizada devido a qualidade do serviço, **não recomendo**.
+* [NewHouse Repair](https://www.instagram.com/newhouse.repair/) (Johnny & Rafael) - 🇧🇷 
+  * Estamos tendo diversos problemas com o trabalho deles após a obra finalizada devido a qualidade do serviço.
+  * Eu fiquei sabendo de outras pessoas que tiveram problemas com eles devido a baixa qualidade do serviço.
 
+* ~*[MyFix](https://mrfix.nl/en/) - Servicos gerais como pintor, eletricista, encanador, chaveiro, montar e desmontar moveis e pequenos reparos. Cobra por hora, no site tem o preco*~. 
+  * Minha experiencia com a MrFix não foi nada boa. Trabalho de baixa qualidade com material superfaturado e se recusaram a mandar os recibos dos materiais além de terem danificado a madeira do teto do meu shed. A unica coisa q a MrFix fez foi perguntar se eu queria contratar outra pessoa pra refazer o serviço.   
