@@ -30,7 +30,8 @@ Lembre de checar com o prestador de serviço se ele atende a sua regiao. As reco
 ## Encanadores
 * [Buunk](https://buunk.nl/) - Encanadores que atendem toda a região de Amsterdam (inclui Zaandam). Possuem atendimento 24 horas. 
 
-
+## Roofer / Telhado
+* [AllRound Roofer](https:/wa.me/+31612011438) - 🇳🇱 - Manutenção e serviços relacionado telhado em geral (*incluso danos causados por tempestades*). 
 
 ----
 # Avoid List
