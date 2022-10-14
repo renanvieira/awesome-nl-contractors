@@ -10,7 +10,7 @@ Lembre de checar com o prestador de serviço se ele atende a sua regiao. As reco
 * [Casa da Ju](https://casadaju.design/) - 🇧🇷 - Desenho completo (3D) pra reformas e design de interiores, na nossa conversa ela mencionou que não faz desenho estrutural.
 
 ## Reformas (contractor)
-* ~[NewHouse Repair](https://www.instagram.com/newhouse.repair/) - 🇧🇷 - Johnny & Rafael são dois BRs qeu trabalham com reformas em geral, porém não é todo tipo de reforma que eles fazem, pelo que conversamos eles fazem coisas mais internas. Eles reformaram o banheiro aqui de casa.~ Estamos tendo problemas com o trabalho deles depois da obra finalizada, não recomendo.
+* ~*[NewHouse Repair](https://www.instagram.com/newhouse.repair/) - 🇧🇷 - Johnny & Rafael são dois BRs qeu trabalham com reformas em geral, porém não é todo tipo de reforma que eles fazem, pelo que conversamos eles fazem coisas mais internas. Eles reformaram o banheiro aqui de casa*~. Estamos tendo diversos problemas com o trabalho deles após a obra finalizada devido a qualidade do serviço, **não recomendo**.
 
 ## Eletricista
 
@@ -23,7 +23,7 @@ Lembre de checar com o prestador de serviço se ele atende a sua regiao. As reco
 ## Handyman
 * [Arjan](https://wa.me/+31612670554) - Serviços gerais e pequenos reparos, cobra deslocamento + hora de trabalho. 
 * [Richard+bus](https://www.richardplusbus.nl/en/home-2/) - Serviços gerais como montar moveis e pequenos reparos. Cobra por hora, no site tem o preço.
-* ~[MyFix](https://mrfix.nl/en/) - Servicos gerais como pintor, eletricista, encanador, chaveiro, montar e desmontar moveis e pequenos reparos. Cobra por hora, no site tem o preco.~ Minha experiencia com a MrFix não foi nada boa. Trabalho de baixa qualidade com material superfaturado e se recusaram a mandar os recibos dos materiais.
+* ~*[MyFix](https://mrfix.nl/en/) - Servicos gerais como pintor, eletricista, encanador, chaveiro, montar e desmontar moveis e pequenos reparos. Cobra por hora, no site tem o preco*~. Minha experiencia com a MrFix não foi nada boa. Trabalho de baixa qualidade com material superfaturado e se recusaram a mandar os recibos dos materiais.
 
 ## Pest Control
 * [Netwerk Ongediertebestrijding](https://www.stopplaagdieren.nl/) - Trabalham com o controle de diversas pestes como ratos, silverfish, bedbugs entre outros. No caso de ratos eles caçam o bicho caso ainda esteja dentro de casa, tapam todas as possíveis entradas e dão instruções. Se em duas semanas ainda tiver rato na casa, eles voltam sem nenhum custo extra.
