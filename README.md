@@ -21,7 +21,7 @@ Lembre de checar com o prestador de serviço se ele atende a sua regiao. As reco
 * [Richard+bus](https://www.richardplusbus.nl/en/home-2/) - Faz a mudança e desmontar móveis, possue um ajudante caso seja necessário. Cobra por hora, no site tem os preços.
 
 ## Handyman
-* [Arjan](https://wa.me/+31612670554) - Serviços gerais e pequenos reparos, cobra deslocamento + hora de trabalho. 
+* ~*[Arjan](https://wa.me/+31612670554) - Serviços gerais e pequenos reparos, cobra deslocamento + hora de trabalho*~. Infelizmente Arjan não trabalha mais como handyman. 
 * [Richard+bus](https://www.richardplusbus.nl/en/home-2/) - Serviços gerais como montar moveis e pequenos reparos. Cobra por hora, no site tem o preço.
 * ~*[MyFix](https://mrfix.nl/en/) - Servicos gerais como pintor, eletricista, encanador, chaveiro, montar e desmontar moveis e pequenos reparos. Cobra por hora, no site tem o preco*~. Minha experiencia com a MrFix não foi nada boa. Trabalho de baixa qualidade com material superfaturado e se recusaram a mandar os recibos dos materiais.
 
