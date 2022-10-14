@@ -10,7 +10,6 @@ Lembre de checar com o prestador de serviço se ele atende a sua regiao. As reco
 * [Casa da Ju](https://casadaju.design/) - 🇧🇷 - Desenho completo (3D) pra reformas e design de interiores, na nossa conversa ela mencionou que não faz desenho estrutural.
 
 ## Reformas (contractor)
-* ~*[NewHouse Repair](https://www.instagram.com/newhouse.repair/) - 🇧🇷 - Johnny & Rafael são dois BRs qeu trabalham com reformas em geral, porém não é todo tipo de reforma que eles fazem, pelo que conversamos eles fazem coisas mais internas. Eles reformaram o banheiro aqui de casa*~. Estamos tendo diversos problemas com o trabalho deles após a obra finalizada devido a qualidade do serviço, **não recomendo**.
 
 ## Eletricista
 
@@ -30,3 +29,12 @@ Lembre de checar com o prestador de serviço se ele atende a sua regiao. As reco
 
 ## Encanadores
 * [Buunk](https://buunk.nl/) - Encanadores que atendem toda a região de Amsterdam (inclui Zaandam). Possuem atendimento 24 horas. 
+
+
+
+
+# Avoid List
+Lista de empresas que não são recomendadas.
+
+* [NewHouse Repair](https://www.instagram.com/newhouse.repair/) - 🇧🇷 - Johnny & Rafael:  Estamos tendo diversos problemas com o trabalho deles após a obra finalizada devido a qualidade do serviço, **não recomendo**.
+
