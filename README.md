@@ -27,8 +27,11 @@ Lembre de checar com o prestador de serviço se ele atende a sua regiao. As reco
 ## Pest Control
 * [Netwerk Ongediertebestrijding](https://www.stopplaagdieren.nl/) - Trabalham com o controle de diversas pestes como ratos, silverfish, bedbugs entre outros. No caso de ratos eles caçam o bicho caso ainda esteja dentro de casa, tapam todas as possíveis entradas e dão instruções. Se em duas semanas ainda tiver rato na casa, eles voltam sem nenhum custo extra.
 
-## Encanadores
+## Encanadores (Esgoto)
 * [Buunk](https://buunk.nl/) - Encanadores que atendem toda a região de Amsterdam (inclui Zaandam). Possuem atendimento 24 horas. 
+
+## Aquecimento / Ventilação
+* [Feenstra](https://www.feenstra.com) - 🇳🇱 - Eles possuem plano de manutenção e venda+instalação de boiles(CV-Ketel), ventilação central etc. Trocamos o nosso boiler com eles, a instalação foi feito por eles e fizemos o plano de manutenção deles, então temos garantia total de tudo durante todo o tempo de vida do boiler. O trabalho foi rápido, limpo e bem feito.
 
 ## Roofer / Telhado
 * [AllRound Roofer](https:/wa.me/+31612011438) - 🇳🇱 - Manutenção e serviços relacionado telhado em geral (*incluso danos causados por tempestades*). 
