@@ -11,7 +11,8 @@ Lembre de checar com o prestador de serviço se ele atende a sua regiao. As reco
 
 ## Reformas (contractor)
 
-* [Fernando Santos](https://wa.me/+31685645846) - 🇧🇷 - Reformas em geral grandes ou pequenas. Consertaram os problemas que a NewHouseRepair fizeram no meu banheiro.
+* [Fernando Santos](https://wa.me/+31685645846) - 🇧🇷 - Reformas em geral grandes ou pequenas. Consertaram os problemas que a NewHouseRepair (AvoidList) fizeram no meu banheiro.
+* [Tavares & Socorro](https://wa.me/+31687528280) - 🇧🇷 - Trabalha junto com o Fernando, porem possui mais gente trabalhando diretamente com ele. Ele foi nosso contato pra iniciar os consertos do nosso banheiro.
 
  
 ## Eletricista
