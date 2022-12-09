@@ -11,7 +11,9 @@ Lembre de checar com o prestador de serviço se ele atende a sua regiao. As reco
 
 ## Reformas (contractor)
 
+* [Fernando Santos](https://wa.me/+31685645846) - 🇧🇷 - Reformas em geral grandes ou pequenas. Consertaram os problemas que a NewHouseRepair fizeram no meu banheiro.
 
+ 
 ## Eletricista
 
 * [Ismael - MoreThanElectra](https://wa.me/+31683943404) - Serviços de eletrica em geral. Cobra por hora em serviços de reparos mas tb faz preço fixo pra projetos planejados.
