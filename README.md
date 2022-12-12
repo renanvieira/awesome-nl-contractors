@@ -23,8 +23,7 @@ Lembre de checar com o prestador de serviço se ele atende a sua regiao. As reco
 ## Mudança
 * [Richard+bus](https://www.richardplusbus.nl/en/home-2/) - Faz a mudança e desmontar móveis, possue um ajudante caso seja necessário. Cobra por hora, no site tem os preços.
 
-## Handyman
-* ~*[Arjan](https://wa.me/+31612670554) - Serviços gerais e pequenos reparos, cobra deslocamento + hora de trabalho*~. Infelizmente Arjan não trabalha mais como handyman. 
+## Handyman 
 * [Richard+bus](https://www.richardplusbus.nl/en/home-2/) - Serviços gerais como montar moveis e pequenos reparos. Cobra por hora, no site tem o preço.
 
 ## Pest Control
