@@ -39,6 +39,9 @@ Lembre de checar com o prestador de serviço se ele atende a sua regiao. As reco
 ## Roofer / Telhado
 * [AllRound Roofer](https:/wa.me/+31612011438) - 🇳🇱 - Manutenção e serviços relacionado telhado em geral (*incluso danos causados por tempestades*).
 
+## Painel Solar
+* [Zelfstroom](https://www.zelfstroom.nl) - 🇳🇱 - Empresa pra instalação de paineis solares, serviço muito bom com um bom atendimento. Uma dica: seja explicitamente claro para os caras exatamente onde vc quer q os cabos passem e onde quer q o inversor fique e faça double-check no dia da instalação e peça pra eles dizerem tb exatamente onde pretendem passar os cabos.
+
 ----
 # 🚨 Avoid List 🚨
 Lista de empresas que não são recomendadas. Empresas nessa Avoid List são adicionadas quando temos algum problema com o serviço oferecido.
