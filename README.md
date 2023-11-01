@@ -41,16 +41,3 @@ Lembre de checar com o prestador de serviço se ele atende a sua regiao. As reco
 
 ## Painel Solar
 * [Zelfstroom](https://www.zelfstroom.nl) - 🇳🇱 - Empresa pra instalação de paineis solares, serviço muito bom com um bom atendimento. Uma dica: seja explicitamente claro para os caras exatamente onde vc quer q os cabos passem e onde quer q o inversor fique e faça double-check no dia da instalação e peça pra eles dizerem tb exatamente onde pretendem passar os cabos.
-
-----
-# 🚨 Avoid List 🚨
-Lista de empresas que não são recomendadas. Empresas nessa Avoid List são adicionadas quando temos algum problema com o serviço oferecido.
-
-* [NewHouse Repair](https://www.instagram.com/newhouse.repair/) (Johnny & Rafael) - 🇧🇷
-  * Estamos tendo diversos problemas com o trabalho deles após a obra finalizada devido a qualidade do serviço.
-  * Eu fiquei sabendo de outras pessoas que tiveram problemas com eles devido a baixa qualidade do serviço.
-
-* *[MrFix](https://mrfix.nl/en/) - Servicos gerais como pintor, eletricista, encanador, chaveiro, montar e desmontar moveis e pequenos reparos. Cobra por hora, no site tem o preco*.
-  * Minha experiencia com a MrFix não foi nada boa. Trabalho de baixa qualidade com material superfaturado e se recusaram a mandar os recibos dos materiais além de terem danificado a madeira do teto do meu shed. A unica coisa q a MrFix fez foi perguntar se eu queria contratar outra pessoa pra refazer o serviço.
-  * A garantir de serviço da MrFix é de 90 dias (_o contractor dá apenas 1 ou 2 meses de garantia_), quando a media de garantia da maioria dos serviços passa dos 5 anos.
-      * Exemplo: Consertei o telhado do meu shed com ele em Abril, a garantia era de 90 dias da MrFix e 1 mes do contractor. Inverno chegou e o conserto nao tá legal, tá entrando agua no shed. A garantia já acabou nao tem o q fazer. Enquanto o conserto de uma calha q tava solta feita por um profissional specifico de telhado tem 15 anos de garantia.
