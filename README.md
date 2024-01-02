@@ -19,7 +19,6 @@ Lembre de checar com o prestador de serviço se ele atende a sua regiao. As reco
 ## Eletricista
 
 * [Ismael - MoreThanElectra](https://wa.me/+31683943404) - Serviços de eletrica em geral. Cobra por hora em serviços de reparos mas tb faz preço fixo pra projetos planejados.
-* [Haarlem Eletricians](https://www.haarlemelectricians.nl/en_gb/) - Serviços de eletrica em geral, também fazem cabeamento de dados (ethernet) na casa entre outros serviços.
 
 ## Mudança
 * [Richard+bus](https://www.richardplusbus.nl/en/home-2/) - Faz a mudança e desmontar móveis, possue um ajudante caso seja necessário. Cobra por hora, no site tem os preços.
