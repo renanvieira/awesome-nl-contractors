@@ -12,8 +12,8 @@ Lembre de checar com o prestador de serviço se ele atende a sua regiao. As reco
 ## Reformas (contractor)
 
 * [Cleuso Almeida](https://wa.me/+31685405998) - 🇧🇷 - Renovou meu banheiro inteiro. Trabalha com reformas em geral. Pontual, honesto e transparente. Entregou a obra com 1 semana de antecedencia comparado ao prazo estimado inicial. Foi indicação da [Casa da Ju](https://casadaju.design/) (by [gmmcal](https;//github.com/gmmcal)).
-* [Fernando Santos](https://wa.me/+31685645846) - 🇧🇷 - Reformas em geral grandes ou pequenas. Consertaram os problemas que a NewHouseRepair (AvoidList) fizeram no meu banheiro.
-* [Tavares & Socorro](https://wa.me/+31687528280) - 🇧🇷 - Trabalha junto com o Fernando, porem possui mais gente trabalhando diretamente com ele. Ele foi nosso contato pra iniciar os consertos do nosso banheiro.
+* [Fernando](https://wa.me/+31685645846) - 🇧🇷 - Reformas em geral grandes ou pequenas e manutencoes.
+* [Tavares & Socorro](https://wa.me/+31687528280) - 🇧🇷 - Trabalha junto com a Kenisur, faz reformas grandes e pequenas.
 
 
 ## Eletricista
@@ -21,10 +21,10 @@ Lembre de checar com o prestador de serviço se ele atende a sua regiao. As reco
 * [Ismael - MoreThanElectra](https://wa.me/+31683943404) - Serviços de eletrica em geral. Cobra por hora em serviços de reparos mas tb faz preço fixo pra projetos planejados.
 
 ## Mudança
-* [Richard+bus](https://www.richardplusbus.nl/en/home-2/) - Faz a mudança e desmontar móveis, possue um ajudante caso seja necessário. Cobra por hora, no site tem os preços.
+
 
 ## Handyman
-* [Richard+bus](https://www.richardplusbus.nl/en/home-2/) - Serviços gerais como montar moveis e pequenos reparos. Cobra por hora, no site tem o preço.
+
 
 ## Pest Control
 * [Netwerk Ongediertebestrijding](https://www.stopplaagdieren.nl/) - Trabalham com o controle de diversas pestes como ratos, silverfish, bedbugs entre outros. No caso de ratos eles caçam o bicho caso ainda esteja dentro de casa, tapam todas as possíveis entradas e dão instruções. Se em duas semanas ainda tiver rato na casa, eles voltam sem nenhum custo extra.
